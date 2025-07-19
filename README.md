@@ -1,3 +1,9 @@
+<img width="792" height="902" alt="image" src="https://github.com/user-attachments/assets/61806219-4d25-41de-a5b1-d7d42306c191" />
+<img width="395" height="229" alt="image" src="https://github.com/user-attachments/assets/21f0dee0-2c03-4707-aefa-117f3d57101d" />
+<img width="377" height="228" alt="image" src="https://github.com/user-attachments/assets/4dddac45-53f6-42c2-885d-95e1a4e16cd8" />
+
+
+
 # HTML Resume Website - Capstone Project 1
 
 A fun and creative HTML-only resume website featuring a cat character named "q6o" (قطو). This project demonstrates fundamental HTML skills including structure, navigation, and basic web development concepts.
